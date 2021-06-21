@@ -1,4 +1,4 @@
-# WeatherAppV2
+# WeatherApp V-2
 
 # Aim: 
 The aim of the project is to create a complete dynamic weather website using real-time API.
